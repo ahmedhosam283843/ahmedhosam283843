@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Nodejs, Swift**
 
-- 💬 Ask me about **Mobile Development: Jetpack Compose, Flutter**
+- 💬 Ask me about **Mobile Development: Native Android, Flutter**
 
 - 📫 How to reach me **ahmedhosam283843@gmail.com**
 
