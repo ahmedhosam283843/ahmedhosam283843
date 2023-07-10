@@ -10,12 +10,12 @@
 
 - 🔭 I’m currently working on [SoccerVerse](https://github.com/ahmedhosam283843/Soccer-Verse)
 
-- 🌱 I’m currently learning **Nodejs, Swift**
+- 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 Check out my portfolio [https://ahmed-hosam-portfolio.vercel.app/](https://ahmed-hosam-portfolio.vercel.app/)
 
 
-- 💬 Ask me about **Mobile Development: Native Android, Flutter**
+- 💬 Ask me about **Mobile Development && Machine Learning**
 
 - 📫 How to reach me **ahmedhosam283843@gmail.com**
 
