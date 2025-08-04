@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 👨‍💻 Check out my portfolio [https://ahmed-hosam-portfolio.vercel.app/](https://ahmed-hosam-portfolio.vercel.app/)
+- 👨‍💻 Check out my software portfolio [https://ahmed-hosam-portfolio.vercel.app/](https://ahmed-hosam-portfolio.vercel.app/)
 
 
 - 💬 Ask me about **Mobile Development && Machine Learning**
